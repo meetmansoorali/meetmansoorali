@@ -30,7 +30,6 @@ Laravel Developer with experience in web development, digital media marketing, a
 ![Digital_Marketing](https://img.shields.io/badge/Digital_Marketing-0A66C2?style=for-the-badge)
 ![Social_Media_Management](https://img.shields.io/badge/Social_Media_Management-E4405F?style=for-the-badge)
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=meetmansoorali&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=meetmansoorali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
