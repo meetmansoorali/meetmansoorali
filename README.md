@@ -1,4 +1,4 @@
-Laravel Developer with experience in web development, digital media marketing, and creative design. Skilled in building modern web solutions using Laravel while also understanding branding and online business growth. Worked with eCommerce and clothing brands, built my own brand Carryown, and participated in the Aptech Vision 25 Global Hackathon. Currently focused on freelance projects and professional growth in web apps development.
+Laravel Developer with working experience in web development, digital media marketing, and creative design. Skilled in building modern web solutions using Laravel while also understanding branding and online business growth. Worked with eCommerce and clothing brands, built my own brand Carryown, and participated in the Aptech Vision 25 Global Hackathon. Currently focused on freelance projects and professional growth in web apps development.
 
 
 ## 🌐 Socials:
